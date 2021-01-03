@@ -1,2 +1,2 @@
 # codingbat-python
-All CodingBat module Python solutions
+**All CodingBat module Python solutions
